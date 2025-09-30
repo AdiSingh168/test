@@ -1,0 +1,5 @@
+// start postgresql service:
+psql postgres
+
+// stop postgresql service:
+brew services stop postgresql@15
