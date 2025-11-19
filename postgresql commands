@@ -1,3 +1,6 @@
+// start postgresql service from homebrew:
+brew services start postgresql@15
+
 // start postgresql service:
 psql postgres
 
